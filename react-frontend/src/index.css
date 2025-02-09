@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-white min-h-screen;
+}
+.custom-right-margin {
+  margin-right: 2000px; /* Adjust as needed */
+}
